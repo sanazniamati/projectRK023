@@ -9,5 +9,6 @@ It provides declarative and reactive bindings to the [Konva Framework](https://k
 
 ![regular polygon](./img.png)
 
-**How To set a shape stroke and stroke width with Konva ?**
+**How To set a shape stroke and strokewidth with react-Konva ?**
+
 **Instructions: Mouseover the pentagon to change its stroke color and width**
